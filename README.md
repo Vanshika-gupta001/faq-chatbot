@@ -39,6 +39,7 @@ uvicorn main:app --reload
 Then open:
 - `http://127.0.0.1:8000/widget` — the demo chat widget
 - `http://127.0.0.1:8000/docs` — interactive API docs (Swagger UI)
+- `https://faq-chatbot-df60.onrender.com/widget` - live link
 
 Try asking the widget things like *"what are your store hours?"* or
 *"how long does shipping take?"*
