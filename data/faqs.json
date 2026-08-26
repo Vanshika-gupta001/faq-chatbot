@@ -1,0 +1,45 @@
+{
+  "business_name": "Demo Store",
+  "faqs": [
+    {
+      "question": "What are your store hours?",
+      "answer": "We're open Monday to Saturday, 10 AM to 8 PM. We're closed on Sundays and public holidays."
+    },
+    {
+      "question": "Do you offer refunds?",
+      "answer": "Yes, we offer a full refund within 7 days of purchase if the product is unused and in original packaging."
+    },
+    {
+      "question": "How long does shipping take?",
+      "answer": "Standard shipping takes 3-5 business days. Express shipping (extra charge) takes 1-2 business days."
+    },
+    {
+      "question": "Do you ship internationally?",
+      "answer": "Currently we only ship within India. International shipping is coming soon."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept UPI, credit/debit cards, net banking, and cash on delivery (COD) for orders under Rs. 5000."
+    },
+    {
+      "question": "How can I track my order?",
+      "answer": "Once your order ships, you'll receive a tracking link via SMS and email. You can also check order status by logging into your account."
+    },
+    {
+      "question": "Can I cancel my order?",
+      "answer": "Orders can be cancelled within 2 hours of placing them. After that, the order enters processing and cannot be cancelled."
+    },
+    {
+      "question": "Do you have a physical store?",
+      "answer": "We are currently an online-only store, but we're planning to open physical locations soon."
+    },
+    {
+      "question": "How do I contact customer support?",
+      "answer": "You can reach us at support@demostore.com or call us at +91-9999999999, Monday to Saturday, 10 AM to 6 PM."
+    },
+    {
+      "question": "Is my payment information secure?",
+      "answer": "Yes, all payments are processed through encrypted, PCI-compliant payment gateways. We never store your card details."
+    }
+  ]
+}
